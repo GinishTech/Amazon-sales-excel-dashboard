@@ -2,8 +2,6 @@
 An interactive Excel-based data analysis and dashboard project evaluating order transactions, customer segments, regional targets, and logistical performance for Amazon e-commerce sales.
 
 ![Dashboard](Amazon%20Sales%20DashBoard.png)
-![Pivots 2](Pivots%20(2).png)
-
 
 ## 📊 Project Overview
 
@@ -28,7 +26,15 @@ Geographical Footprint: Operations tracked across 5 major regions (Central, East
 
 Product Assortment: Revenue mapped across 5 core retail categories (Books, Electronics, Fashion, Home, Toys).
 
-Key Insights from Pivot TablesRegional Standouts: The North region leads overall gross volume generation with ₹10,491 in sales, followed closely by the West region at ₹8,359.
+### Pivot Table Summaries & Metrics
+
+![Pivots 1](Pivots.png)
+
+![Pivots 2](Pivots%20(2).png)
+
+Key Insights from Pivot Tables Regional Standouts:
+
+The North region leads overall gross volume generation with ₹10,491 in sales, followed closely by the West region at ₹8,359.
 
 Category Dominance: Electronics stands out as the largest single driver of revenue share, capturing approximately 43.14% of total sales. Home goods represent the second highest share at 31.06%.
 
@@ -37,12 +43,6 @@ Fulfillment Performance: Average delivery turnaround holds steady at approximate
 This repository contains a comprehensive sales analysis project that demonstrates end-to-end data processing inside Microsoft Excel—spanning from raw relational data tables to fully structured analytical views and aggregated KPIs. 
 
 By leveraging advanced Excel functions and Pivot Tables, the project tracks order logistics, evaluates delivery fulfillment speeds, and compares sales performance metrics across five different geographical regions against their preset sales targets.
-
-### Pivot Table Summaries & Metrics
-![Pivots 1](Pivots.png)
-
-![Pivots 2](Pivots%20(2).png)
-
 
 ## 🗂️ Repository Structure
 ```text
