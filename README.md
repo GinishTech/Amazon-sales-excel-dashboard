@@ -16,15 +16,15 @@ Key transformations and feature engineering techniques applied:
 # Financial Filtering: Built out metrics for Effective Sales to isolate successful financial income streams from cancelled orders, ensuring accounting accuracy:
                   Effective Sales = IF(Delivery Status = "Cancelled", 0, Total Amount)
                   
-# Total Gross Sales Revenue: ₹35,258 Total 
+Total Gross Sales Revenue: ₹35,258 Total 
 
-# Effective Revenue (Excluding Cancellations): ₹13,656 Total 
+Effective Revenue (Excluding Cancellations): ₹13,656 Total 
 
-# Transaction Volume: 100 Orders
+Transaction Volume: 100 Orders
 
-# Geographical Footprint: Operations tracked across 5 major regions (Central, East, North, South, West).
+Geographical Footprint: Operations tracked across 5 major regions (Central, East, North, South, West).
 
-# Product Assortment: Revenue mapped across 5 core retail categories (Books, Electronics, Fashion, Home, Toys).
+Product Assortment: Revenue mapped across 5 core retail categories (Books, Electronics, Fashion, Home, Toys).
 
 
 ### Pivot Table Summaries & Metrics
