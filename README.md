@@ -34,8 +34,9 @@ This repository contains a comprehensive sales analysis project that demonstrate
 By leveraging advanced Excel functions and Pivot Tables, the project tracks order logistics, evaluates delivery fulfillment speeds, and compares sales performance metrics across five different geographical regions against their preset sales targets.
 
 ### Pivot Table Summaries & Metrics
-![Pivot Tables View 1](images/Pivots.png)
-![Pivot Tables View 2](images/Pivots%20(2).png)
+![Pivots 1](Pivots.png)
+
+![Pivots 2](Pivots%20(2).png)
 
 
 ## 🗂️ Repository Structure
