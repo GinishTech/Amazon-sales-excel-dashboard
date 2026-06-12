@@ -35,7 +35,8 @@ By leveraging advanced Excel functions and Pivot Tables, the project tracks orde
 
 ### Pivot Table Summaries & Metrics
 ![Pivot Tables View 1](images/Pivots.png)
-![Pivot Tables View 2](images/Pivots_2.png)
+![Pivot Tables View 2](images/Pivots%20(2).png)
+
 
 ## 🗂️ Repository Structure
 ```text
