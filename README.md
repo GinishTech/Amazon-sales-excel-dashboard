@@ -6,25 +6,26 @@ An interactive Excel-based data analysis and dashboard project evaluating order 
 ## 📊 Project Overview
 
 Key transformations and feature engineering techniques applied:
-Data Integration (XLOOKUP): Utilized to map Customer Name from the Customer Master and Product Category from the Product Master into the central transactions sheet using IDs.
+# Data Integration (XLOOKUP): Utilized to map Customer Name from the Customer Master and Product Category from the Product Master into the central transactions sheet using IDs.
 
-Logistics Tracking: Calculated Delivery Time (in days) using basic date metrics
+# Logistics Tracking: Calculated Delivery Time (in days) using basic date metrics
                                     Delivery Time = Delivery Date - Order Date
 
-Performance Classification: Segmented shipping performance conditionally using IF statements to tag fast-tracked orders (Delivery Performance = "Fast").
+# Performance Classification: Segmented shipping performance conditionally using IF statements to tag fast-tracked orders (Delivery Performance = "Fast").
 
-Financial Filtering: Built out metrics for Effective Sales to isolate successful financial income streams from cancelled orders, ensuring accounting accuracy:
+# Financial Filtering: Built out metrics for Effective Sales to isolate successful financial income streams from cancelled orders, ensuring accounting accuracy:
                   Effective Sales = IF(Delivery Status = "Cancelled", 0, Total Amount)
                   
-Total Gross Sales Revenue: ₹35,258 Total 
+# Total Gross Sales Revenue: ₹35,258 Total 
 
-Effective Revenue (Excluding Cancellations): ₹13,656 Total 
+# Effective Revenue (Excluding Cancellations): ₹13,656 Total 
 
-Transaction Volume: 100 Orders
+# Transaction Volume: 100 Orders
 
-Geographical Footprint: Operations tracked across 5 major regions (Central, East, North, South, West).
+# Geographical Footprint: Operations tracked across 5 major regions (Central, East, North, South, West).
 
-Product Assortment: Revenue mapped across 5 core retail categories (Books, Electronics, Fashion, Home, Toys).
+# Product Assortment: Revenue mapped across 5 core retail categories (Books, Electronics, Fashion, Home, Toys).
+
 
 ### Pivot Table Summaries & Metrics
 
