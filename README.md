@@ -32,7 +32,7 @@ Product Assortment: Revenue mapped across 5 core retail categories (Books, Elect
 
 ![Pivots 2](Pivots%20(2).png)
 
-Key Insights from Pivot Tables Regional Standouts :
+### Key Insights from Pivot Tables Regional Standouts :
 
 The North region leads overall gross volume generation with ₹10,491 in sales, followed closely by the West region at ₹8,359.
 
@@ -40,7 +40,7 @@ Category Dominance: Electronics stands out as the largest single driver of reven
 
 Fulfillment Performance: Average delivery turnaround holds steady at approximately 3.76 days, with critical operational ratios indicating steady fulfillment metrics.
 
-How to View the Dashboard :
+### How to View the Dashboard :
 
 Download the Amazon_Sales_Dashboard.xlsx file from this repository.
 
