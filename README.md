@@ -32,13 +32,23 @@ Product Assortment: Revenue mapped across 5 core retail categories (Books, Elect
 
 ![Pivots 2](Pivots%20(2).png)
 
-Key Insights from Pivot Tables Regional Standouts:
+Key Insights from Pivot Tables Regional Standouts :
 
 The North region leads overall gross volume generation with ₹10,491 in sales, followed closely by the West region at ₹8,359.
 
 Category Dominance: Electronics stands out as the largest single driver of revenue share, capturing approximately 43.14% of total sales. Home goods represent the second highest share at 31.06%.
 
 Fulfillment Performance: Average delivery turnaround holds steady at approximately 3.76 days, with critical operational ratios indicating steady fulfillment metrics.
+
+How to View the Dashboard :
+
+Download the Amazon_Sales_Dashboard.xlsx file from this repository.
+
+Open the file using Microsoft Excel (2016 or newer recommended).
+
+Ensure you Enable Macros / Content if prompted for full interactive capability.
+
+Utilize the built-in Slicers (Payment Method, Product Category, and Order Years) to slice and dice the charts dynamically.
 
 This repository contains a comprehensive sales analysis project that demonstrates end-to-end data processing inside Microsoft Excel—spanning from raw relational data tables to fully structured analytical views and aggregated KPIs. 
 
